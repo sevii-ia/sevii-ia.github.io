@@ -721,13 +721,6 @@ main {
   line-height: 1.6;
 }
 
-.modal-content a {
-  color: var(--light-gray);
-  font-size: var(--fs-6);
-  font-weight: var(--fw-300);
-  line-height: 1.6;
-}
-
 
 /**
  * #clients 
